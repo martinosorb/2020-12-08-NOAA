@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 # https://carpentries.github.io/workshop-template/customization/index.html
-venue: "NOAA"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "NOAA National Ocean Service"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "online"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 country: "US"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1#Current_codes) for the institution that hosts the workshop
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes) for the
@@ -141,8 +141,8 @@ address.
 </p>
 {% elsif online == "true_private" %}
 <p id="where">
-  <strong>Where:</strong> This training will take place online.
-  The instructors will provide you with the information you will need to connect to this meeting.
+  <strong>Where:</strong> This training will take place via Google Meet.
+  The host will provide you with the information you will need to connect to this meeting.
 </p>
 {% endif %}
 
@@ -165,8 +165,8 @@ SPECIAL REQUIREMENTS
 Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
-  <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges on. They should have a few specific software packages installed (listed <a href="#setup">below</a>).
+  <strong>Requirements:</strong> Participants must participate with a PC/laptop with a
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have sufficient administrative privileges to have the specific software packages installed (listed <a href="#setup">below</a>). Depending on your setup, you may need administrative privileges to your machine in order to successfully install those packages. Please try to install the necessary software <strong>in advance of the workshop</strong> and contact your IT department if you are unable to.
 </p>
 
 {% comment %}
