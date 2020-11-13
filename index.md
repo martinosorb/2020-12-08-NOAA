@@ -368,6 +368,9 @@ please preview your site before committing, and make sure to run
   In addition, you will need an up-to-date web browser.
 </p>
 <p>
+	<strong>Please work with your IT department to install the following software on your work laptop, or follow the instructions below to install on a personal laptop.</strong>
+</p>
+<p>
   We maintain a list of common issues that occur during installation as a reference for instructors
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
